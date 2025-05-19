@@ -1,0 +1,9 @@
+lpmethod     4
+threads      6
+quality      1
+numericalemphasis 1
+barorder     3
+barstartalg  1
+baralg       1
+solutiontype 2
+predual      -1

@@ -1,0 +1,2 @@
+par=gencaprpt   rdim=5 cdim=0 rng=gencaprpt!a2
+par=rtlpgrpt	rdim=3 cdim=0 rng=rtlpgrpt!a2

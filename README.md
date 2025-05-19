@@ -1,6 +1,6 @@
 # The US **R**egional **E**conomy, **G**HG, and **En**ergy model (**US-REGEN**)
 
-![Image of REGEN Logo](https://epri.box.com/shared/static/5ki6ll7bjvfkqjb8lqxnyvso3umd8stp.png)
+![Image of REGEN Logo](images/REGEN_logo.png)
 
 ## Introduction 
 This GitHub repository contains code to run EPRI's U.S. Regional Economy, Greenhouse Gas, and Energy (US-REGEN). US-REGEN is an energy-economy model developed and maintained by EPRI's [Energy System and Climate Analysis (ESCA)](https://esca.epri.com/) group. 
@@ -42,7 +42,7 @@ After cloning the model source code, users need to download the accompanying inp
 
 Input data can be downloaded [here](https://epri.box.com/s/c97ncbyc7wvezs8239mjcafln9629w3g). Clicking this link will open a Box folder with all the input files organized in the correct folder structure (see image below).
 
-![](https://epri.box.com/shared/static/6btg13nouoe68o56gt9yz4jkhwp65oc6.png)
+![](images/box_folder_1b_small.png)
 
 Click the down-arrow icon in the upper right corner to download all files and directory tree as a zip file called `REGEN_Box.zip`. Save this zip file at the root directory of the US-REGEN that you cloned. Next, extract the contents of the zip file at the root directory of the US-REGEN.
 
@@ -50,7 +50,7 @@ Box may create the compressed file with an additional directory at the first lev
 
 If the contents were extracted correctly, the root directory of US-REGEN will then contain three subfolders, as illustrated by the image below
 
-![](https://epri.box.com/shared/static/yjp4cv7x54w48dc2mby9z6pwv53kb3go.png)
+![](images/regen_folders_extracted.png)
 
 
 #####  Download input data through batch script

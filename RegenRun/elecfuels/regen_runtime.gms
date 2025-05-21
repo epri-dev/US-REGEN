@@ -166,7 +166,7 @@ $ifthen %irarepeal%==yes
 ptc(i,f,v)$(vyr(v) gt 2025) = 0;
 ptctv(t,v)$(vyr(v) gt 2025) = no;
 itc(i,v)$(vyr(v) gt 2025) = 0;
-itc(j,v)$(vyr(v) gt 2025) = 0;
+itc_j(j,v)$(vyr(v) gt 2025) = 0;
 ccs45q(i,v,f,r,t)$(vyr(v) gt 2025) = 0;
 ccs45q_c(i,vv,v,f,r,t)$(vyr(v) gt 2025) = 0;
 ccs45q_trf(fi,v,t)$(vyr(v) gt 2025) = 0;

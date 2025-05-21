@@ -1,11 +1,6 @@
 Software:	
 Open-Source U.S. Regional Economy, Greenhouse Gas, and Energy (US-REGEN) Model
 Version 2025.0.0.1
-                                                   
-Developed for:	
-EPRI, Inc.                                             
-3420 Hillview Ave.                                           
-Palo Alto, CA 94304                                                                                             
 
 Support:	
 This software is provided by EPRI "AS IS" and without customer support beyond such 
@@ -13,13 +8,24 @@ program, embodiments, or versions within the distribution of this software that 
 or may not provide such support.
 
 Copyright:	
-Copyright © 2025 EPRI, Inc. All Rights Reserved.
+Copyright Â© 2025 EPRI, Inc. All Rights Reserved.
+
+Redistribution and use in source and binary forms, with or without modification,
+are permitted provided that the following conditions are met:
+
+ * Redistributions of source code must retain the above copyright notice,
+   this list of conditions and the following disclaimer.
+ * Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
+ * Neither the name of US-REGEN nor the names of its contributors
+   may be used to endorse or promote products derived from this software
+   without specific prior written permission.
 
 Permission to use, copy, modify, and distribute this software for any purpose with 
 or without fee is hereby granted, provided that the above copyright notice and this 
-permission notice appear in all copies and provide this notice to the user.	
+permission notice appear in all copies and provide this notice to the user.
 
-Disclaimer:	
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY 
 EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES 
 OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT 

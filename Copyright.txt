@@ -15,10 +15,6 @@ or may not provide such support.
 Copyright:	
 Copyright © 2025 EPRI, Inc. All Rights Reserved.
 
-Permission to use, copy, modify, and distribute this software for any purpose with 
-or without fee is hereby granted, provided that the above copyright notice and this 
-permission notice appear in all copies and provide this notice to the user.	
-
 Disclaimer:	
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY 
 EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES 

@@ -7,6 +7,7 @@ This GitHub repository contains code to run EPRI's U.S. Regional Economy, Greenh
 
 More information is available in the US-REGEN User's Manual in this repository and at the [US-REGEN home page](https://esca.epri.com/usregen).
 
+Link to Documentation: https://us-regen-docs.epri.com/
 
 ## Getting Started
 
